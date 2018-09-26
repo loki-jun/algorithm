@@ -85,19 +85,19 @@ LINK32=link.exe
 # PROP Default_Filter "cpp;c;cxx;rc;def;r;odl;idl;hpj;bat"
 # Begin Source File
 
-SOURCE=.\division.cpp
+SOURCE=.\source\division.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=.\iteration.cpp
+SOURCE=.\source\iteration.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=.\main.cpp
+SOURCE=.\source\main.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=.\stringsort.cpp
+SOURCE=.\source\stringsort.cpp
 # End Source File
 # End Group
 # Begin Group "Header Files"
@@ -105,15 +105,15 @@ SOURCE=.\stringsort.cpp
 # PROP Default_Filter "h;hpp;hxx;hm;inl"
 # Begin Source File
 
-SOURCE=.\division.h
+SOURCE=.\include\division.h
 # End Source File
 # Begin Source File
 
-SOURCE=.\interation.h
+SOURCE=.\include\interation.h
 # End Source File
 # Begin Source File
 
-SOURCE=.\sort.h
+SOURCE=.\include\sort.h
 # End Source File
 # End Group
 # Begin Group "Resource Files"
